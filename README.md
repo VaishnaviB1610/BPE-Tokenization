@@ -14,13 +14,13 @@ Before running the code, make sure you have the following Python libraries insta
 - The books used in this project are:
 
 Training Books:
-austen-emma.txt
-shakespeare-hamlet.txt
-melville-moby_dick.txt
-Testing Books:
-bible-kjv.txt
-blake-poems.txt
-whitman-leaves.txt
+- austen-emma.txt
+- shakespeare-hamlet.txt
+- melville-moby_dick.txt
+- Testing Books:
+- bible-kjv.txt
+- blake-poems.txt
+- whitman-leaves.txt
 
 These books will be automatically loaded using the NLTK module, so you don't need to download them separately.
 
